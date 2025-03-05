@@ -4,11 +4,11 @@ Team Contract: https://docs.google.com/document/d/1-gvaexvnislcUpf5l020QS3jFQO7p
 
 Sprint 2 ------------------------------------------------------------------------------------------------------------------
 - Demo Day 3/6: https://docs.google.com/presentation/d/1M1A6FNVJHQ-QQegFsM0-NFgaJrHKL7czfW1ghvW8k8w/edit?usp=sharing
-- Meeting Notes 2/18: https://docs.google.com/document/d/1BobW8GnyWMjW-dFckI2Tqj6UUOGEFCnQoQ1n8QIjQHI/edit?usp=sharing
+- Meeting Notes for Sprint 2: https://docs.google.com/document/d/1BobW8GnyWMjW-dFckI2Tqj6UUOGEFCnQoQ1n8QIjQHI/edit?usp=sharing
 
 - Feedback
   - Learra
-    - Feedback given: https://docs.google.com/document/d/1xk9_Uqof18lsO6wYJVIRIp8wcPVyDnvw1Zpm-R9QY7c/edit?usp=sharing
+    - Feedback given: https://docs.google.com/document/d/1uF2OhMGB7Ax4_dmETqOJlbIC8Q5eRMjVfeFe0K-wX3k/edit?usp=sharing
     - Feedback received: https://docs.google.com/document/d/1xk9_Uqof18lsO6wYJVIRIp8wcPVyDnvw1Zpm-R9QY7c/edit?usp=sharing
   - Nathaniel
     - Feedback given:
