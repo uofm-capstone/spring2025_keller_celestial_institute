@@ -11,7 +11,7 @@ Sprint 2 -----------------------------------------------------------------------
     - Feedback given: https://docs.google.com/document/d/1uF2OhMGB7Ax4_dmETqOJlbIC8Q5eRMjVfeFe0K-wX3k/edit?usp=sharing
     - Feedback received: https://docs.google.com/document/d/1xk9_Uqof18lsO6wYJVIRIp8wcPVyDnvw1Zpm-R9QY7c/edit?usp=sharing
   - Nathaniel
-    - Feedback given:
+    - Feedback given: https://docs.google.com/document/d/1zgxi_lcYvcdP4SP28r-3iOwoVIRawmssq0U8n4DGGxo/edit?usp=sharing
     - Feedback received:
   - Kevin
     - Feedback given: https://docs.google.com/document/d/1HtHUI6CGAx-K_npg55mtEH2R5Nvb5yxlxTV722fUWY8/edit?usp=sharing 
