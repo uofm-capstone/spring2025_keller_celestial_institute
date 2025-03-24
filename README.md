@@ -1,4 +1,4 @@
-### Timesheet: https://docs.google.com/spreadsheets/d/1QFDFXoyEEeIFfz6N43jIQHyFChmbYMipEboYjOHFlGY/edit?gid=0#gid=0
+### Timesheet: https://docs.google.com/spreadsheets/d/1QFDFXoyEEeIFfz6N43jIQHyFChmbYMipEboYjOHFlGY/edit?usp=sharing
 
 ### Team Contract: https://docs.google.com/document/d/1-gvaexvnislcUpf5l020QS3jFQO7pK0u_Em26R2zcEM/edit?tab=t.0
 
