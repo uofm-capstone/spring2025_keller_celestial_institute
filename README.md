@@ -6,7 +6,7 @@
 
 ## Sprint 3
 - #### Demo Day 4/3:
-- #### Meeting Notes for Sprint 3:
+- #### Meeting Notes for Sprint 3: https://docs.google.com/document/d/1AOcwbhwuEV5NDjJehkxA-Qhgns3K1EEUafkJPAkq7P0/edit?usp=sharing
 
 - #### Feedback
 
