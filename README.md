@@ -5,10 +5,22 @@
 ---
 
 ## Sprint 3
-- #### Demo Day 4/3:
+- #### Demo Day 4/3: https://docs.google.com/presentation/d/1AAvakKW96PDAoIUYSL5MrWDzKHR5NQUMNps2wNUzo9E/edit?usp=sharing
 - #### Meeting Notes for Sprint 3: https://docs.google.com/document/d/1AOcwbhwuEV5NDjJehkxA-Qhgns3K1EEUafkJPAkq7P0/edit?usp=sharing
 
 - #### Feedback
+  - Learra
+    - Feedback given: https://docs.google.com/document/d/1HPjCkDdvrpFBAkTwzMus9snKsGCX4jAHmg1JT89Y_14/edit?usp=sharing
+    - Feedback received: https://docs.google.com/document/d/1KhUDhkBNKtfxKAHZg2nXXT7x1ABH7F8UCq1ncmcG8zE/edit?usp=sharing 
+  - Nathaniel
+    - Feedback given: 
+    - Feedback received: 
+  - Kevin
+    - Feedback given: 
+    - Feedback received: 
+  - Praveen
+    - Feedback given: 
+    - Feedback received: 
 
 ## Sprint 2
 - #### Demo Day 3/6: https://docs.google.com/presentation/d/1M1A6FNVJHQ-QQegFsM0-NFgaJrHKL7czfW1ghvW8k8w/edit?usp=sharing
