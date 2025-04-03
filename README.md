@@ -19,7 +19,7 @@
     - Feedback given: https://docs.google.com/document/d/1OKmBshnNCI36VJWWnrmYj4zQ_WOk4mDdqjkoVS88Qcc/edit?usp=sharing
     - Feedback received: https://docs.google.com/document/d/1vFf68iepzkuZ6RoU1IuzLOR5Rrq2r8ctPTaJNwYu6eg/edit?usp=sharing
   - Praveen
-    - Feedback given: 
+    - Feedback given: https://docs.google.com/document/d/1kOXNxiN9MYHZX6wtS1YWrinl4jY7IXZQXFDzwUtIr2E/edit?tab=t.0
     - Feedback received: 
 
 ## Sprint 2
