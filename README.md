@@ -20,7 +20,7 @@
     - Feedback received: https://docs.google.com/document/d/1vFf68iepzkuZ6RoU1IuzLOR5Rrq2r8ctPTaJNwYu6eg/edit?usp=sharing
   - Praveen
     - Feedback given: https://docs.google.com/document/d/1kOXNxiN9MYHZX6wtS1YWrinl4jY7IXZQXFDzwUtIr2E/edit?tab=t.0
-    - Feedback received: 
+    - Feedback received: https://docs.google.com/document/d/1IOeaCAnML-hDBwPWH2vOztOpqqnAIact2zVhrYyYAzA/edit?tab=t.0#heading=h.eo23tfjvp921
 
 ## Sprint 2
 - #### Demo Day 3/6: https://docs.google.com/presentation/d/1M1A6FNVJHQ-QQegFsM0-NFgaJrHKL7czfW1ghvW8k8w/edit?usp=sharing
