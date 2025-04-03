@@ -13,8 +13,8 @@
     - Feedback given: https://docs.google.com/document/d/1HPjCkDdvrpFBAkTwzMus9snKsGCX4jAHmg1JT89Y_14/edit?usp=sharing
     - Feedback received: https://docs.google.com/document/d/1KhUDhkBNKtfxKAHZg2nXXT7x1ABH7F8UCq1ncmcG8zE/edit?usp=sharing 
   - Nathaniel
-    - Feedback given: 
-    - Feedback received: 
+    - Feedback given: https://docs.google.com/document/d/1i7b6dc56apNudoU1buW13eCi8_sRKAJsWJTJ7KDuJ0M/edit?usp=sharing
+    - Feedback received: https://docs.google.com/document/d/1CKnwvA4JLXUEIEAADCslKtz5-HtiLj_L/edit?usp=sharing&ouid=111938462544008061716&rtpof=true&sd=true
   - Kevin
     - Feedback given: https://docs.google.com/document/d/1OKmBshnNCI36VJWWnrmYj4zQ_WOk4mDdqjkoVS88Qcc/edit?usp=sharing
     - Feedback received: https://docs.google.com/document/d/1vFf68iepzkuZ6RoU1IuzLOR5Rrq2r8ctPTaJNwYu6eg/edit?usp=sharing
