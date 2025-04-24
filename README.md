@@ -9,8 +9,8 @@
 
 - #### Feedback
   - Learra
-    - Feedback given:
-    - Feedback received:
+    - Feedback given: https://docs.google.com/document/d/1AquPdX6LEr4yc1iE53343OxrvWmSyxOLZ0c-lm8AjUY/edit?usp=sharing 
+    - Feedback received: https://docs.google.com/document/d/1PMeZL9tqQJfeTFrtJ4hqx6I46QxjaMd9e0OJByPSJfo/edit?usp=sharing
   - Nathaniel
     - Feedback given:
     - Feedback received:
