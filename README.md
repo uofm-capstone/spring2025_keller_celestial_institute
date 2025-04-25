@@ -15,8 +15,8 @@
     - Feedback given:
     - Feedback received:
   - Kevin
-    - Feedback given:
-    - Feedback received:
+    - Feedback given: https://docs.google.com/document/d/19vUfErXBLn_MBUJ7weJJkNDKdnpaXlk9rFZgbwa90Xc/edit?usp=sharing
+    - Feedback received: https://docs.google.com/document/d/1ON1PZAjJuTuGzM7-01n4uZcUv8POuNFwJLFw5zIrK4Y/edit?usp=sharing 
   - Praveen
     - Feedback given:
     - Feedback received:
