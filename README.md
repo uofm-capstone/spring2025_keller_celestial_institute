@@ -18,8 +18,8 @@
     - Feedback given: https://docs.google.com/document/d/19vUfErXBLn_MBUJ7weJJkNDKdnpaXlk9rFZgbwa90Xc/edit?usp=sharing
     - Feedback received: https://docs.google.com/document/d/1ON1PZAjJuTuGzM7-01n4uZcUv8POuNFwJLFw5zIrK4Y/edit?usp=sharing 
   - Praveen
-    - Feedback given:
-    - Feedback received:
+    - Feedback given: https://docs.google.com/document/d/1L7gy6gC5naS_RpN398YHiwVgj73Wc6G7E9qJUw7i5Hk/edit?usp=sharing
+    - Feedback received: https://docs.google.com/document/d/1KnmEZIQ3Q42uXorkNIvPhTwDRZF1BaFqWWUjiVovEyA/edit?usp=sharing
       
 ## Sprint 3
 - #### Demo Day 4/3: https://docs.google.com/presentation/d/1AAvakKW96PDAoIUYSL5MrWDzKHR5NQUMNps2wNUzo9E/edit?usp=sharing
